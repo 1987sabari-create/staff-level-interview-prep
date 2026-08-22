@@ -19,3 +19,9 @@ I am currently focusing on infrastructure roles, so I am going to prepare for fo
 8. Photo uploader
 
 Planning to spend 2 sessions on each designs. one for reading and one for the walk through about the design. 
+
+
+# materials 
+
+Alex Xu - system design. 
+hello interview premium.
