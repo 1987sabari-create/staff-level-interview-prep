@@ -33,3 +33,12 @@ class FileSystem:
       node = self.find(path, True)
       node.isFile = True
       node.content += content
+
+   def mkdir(self, path):
+      node = self.find(path, True)
+
+   def readContentFromFile(self, path):
+      node = self.find(path)
+      if node.isFile:
+        return node.content
+      return None
