@@ -24,4 +24,6 @@ Planning to spend 2 sessions on each designs. one for reading and one for the wa
 # materials 
 
 Alex Xu - system design. 
-hello interview premium.
+
+hello interview premium. - https://www.hellointerview.com/dashboard
+
